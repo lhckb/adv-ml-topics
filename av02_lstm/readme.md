@@ -1,0 +1,1 @@
+Para executar o notebook basta rodá-lo em um ambiente jupyter. O ZIP enviado inclui os resultados em forma de binário que será carregado pelo script. Caso deseje rodar do zero, basta deletar os resultados, e o script irá rodar tudo e criar resultados novos. Obs.: vai demorar muito.
